@@ -25,7 +25,7 @@ def create_app(db_url=None):
     load_dotenv()  # Load environment variables from .env file
 
     app.config["PROPAGATE_EXCEPTIONS"] = True
-    app.config["API_TITLE"] = "Stores REST API"
+    app.config["API_TITLE"] = "Rafael Brito's Resume REST API"
     app.config["API_VERSION"] = "V1"
     app.config["OPENAPI_VERSION"] = "3.0.3"
     app.config["OPENAPI_URL_PREFIX"] = "/"
