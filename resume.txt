@@ -1,0 +1,57 @@
+Rafael Brito
+📱 +1 201-774-4844 | 📧 raffbrito@gmail.com | 🌐 linkedin.com/in/rafaelbdesouza | 📂github.com/raffbrito
+
+PROFESSIONAL SUMMARY
+
+Enterprise Support Specialist with 10+ years of experience in market data integration, client technical support, and business intelligence across financial services. Proven track record of solving complex technical issues for high-profile clients in capital markets, asset management, and fintech. Skilled in APIs, Python, SQL, data delivery systems and cloud solutions with a focus on driving client adoption, improving data quality, and streamlining integration.
+PROFESSIONAL EXPERIENCE
+
+Bloomberg LP – New York, NYEnterprise Support Specialist (Aug 2023 – Present)
+Serve as SME for Enterprise Data APIs and cloud delivery, ensuring seamless integration into client applications and accelerating time-to-value.
+Act as the technical escalation point for strategic accounts, resolving high-priority issues and participating weekly calls with clients and TAMs.
+Collaborate in pre-sales engagements, aligning technical solutions with client business goals to support new revenue opportunities.
+Provide deep technical expertise on REST/SOAP APIs, real-time market data APIs, SFTP, and cloud delivery technologies, focusing on optimization for clients in production.
+Review client application code and logs to troubleshoot issues, improve product usage efficiency, and ensure compliance with Bloomberg data policies.
+Automated log analysis and troubleshooting workflows, reducing client issue resolution time.
+Lead team-wide training programs, mentor new hires, and drive knowledge sharing to maintain high technical service standards.
+Intercontinental Exchange (ICE) – New York, NYEnterprise Content Support (Jun 2022 – Aug 2023)
+Acted as liaison between data operations, product, and enterprise clients, ensuring timely resolution of reference data inquiries across multiple product lines.
+Built analytical reports to identify trends and inefficiencies in data production workflows, improving accuracy and turnaround time.
+Developed and deployed Power BI dashboard to monitor client inquiry KPIs in real-time.
+
+InspIR Group – São Paulo, BrazilSr. BI Analyst (Mar 2020 – May 2022)
+Designed shareholder data analysis, investor targeting reports, and market dashboards for corporate clients.
+Created stock performance and benchmarking reports in Power BI and deployed Microsoft PowerApps.
+Developed BI solutions that streamlined investor targeting workflows, reducing reporting time by 60%.
+
+Intercontinental Exchange (ICE) – New York, NYSr. Data Researcher (Jul 2015 – Sep 2019)
+Built and maintained relationships with fixed income data contributors.
+Led outreach to securities’ issuance agents (issuers, trust administrators, underwriters) to verify fixed income terms and conditions.
+Conducted root cause analysis on recurring data sourcing issues, improving overall data quality.
+Collaborated with data contributors and leveraged automation to enhance fixed-income reference data quality for downstream client applications.
+Mentored junior team members
+Led migration of outdated ticketing platform to JIRA.
+
+Issa PR – New York, NYPR Executive (Nov 2014 – Dec 2015)
+Managed media relations and secured press coverage for client events and campaigns.
+Produced client proposals, market research, and post-event analytics reports.
+
+Interactive Data – New York, NYData Research Specialist (Jun 2012 – Jan 2013)
+Processed corporate actions and reference data for equities, fixed income, and mutual funds.
+Extracted and validated data from stock exchanges releases, debt indentures and SEC filings.
+
+EDUCATION
+FIA Business School – São Paulo, Brazil, Master’s Degree – Data Analytics & Machine Learning (2020 – 2022)
+The City College of New York – New York, NYBachelor of Arts – Interdisciplinary Studies, Urban Studies & Public Administration (2016 – 2019)
+
+LANGUAGE SKILLS
+English (Native/Bilingual)
+Portuguese (Native/Bilingual)
+Spanish (Professional Working)
+Italian (Elementary)
+
+TECHNICAL SKILLS & CERTIFICATIONS
+Skills: Bloomberg Terminal & Enterprise Solutions, Power BI, Office 365, SharePoint, PowerApps, SQL, Python, SFTP, REST/SOAP APIs, XML/JSON data feeds, AWS, Azure.
+Programming Foundations: APIs and Web Services
+A Cloud Guru - Introduction to AWS
+AWS for Developers: Identity Access Management (IAM)
